@@ -1,7 +1,7 @@
 # zk-stu032-portfolio
 # Chetna#
 
-* About me*
+** About me **
 
 I am chetna from kaithal learning digital marketing with ai in zed king group of institute 
 
@@ -15,3 +15,5 @@ task list
 
 ()  creat repo
 ()  write code 
+
+! (image)(image url)
